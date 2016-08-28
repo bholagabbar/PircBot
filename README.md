@@ -1,4 +1,4 @@
-# PircBot'
+# PircBot
 
 PircBot' (pronounced "PircBot prime") is a framework for writing IRC bots in
 Java.  This is a fork of jibble.org's [PircBot](http://www.jibble.org/pircbot.php)
@@ -18,6 +18,8 @@ PircBot' can be installed by typing:
 This makes the PircBot' library available to projects that depend on it
 through Ivy. The library can also be used via the resulting
 `build/artifacts/pircbot.jar` file.
+
+**PircBot is now also available on Maven, Gradle and other popular build tools. Please check our page on Maven Central  [here](https://mvnrepository.com/artifact/pircbot/pircbot/1.5.0)**
 
 For general documentation on using PircBot' once it's installed, see the
 [jibble.org PircBot website](http://www.jibble.org/pircbot.php). See
